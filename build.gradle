@@ -1,0 +1,14 @@
+plugins {
+    id 'java-library'
+    id 'org.dddjava.jig-gradle-plugin' version '2018.12.2'
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+}
+
+jigReports.dependsOn(compileJava, processResources)
+
