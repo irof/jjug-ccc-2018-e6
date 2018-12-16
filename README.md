@@ -8,9 +8,17 @@ p90「JIGを使った設計」のコードです。
 
 ## Getting Started
 
-1. `clone`
-2. `./gradlew jig`
-3. `open build/jig/package-relation*.svg`
+```
+git clone https://github.com/irof/jjug-ccc-2018-e6.git
+cd jjug-ccc-2018-e6
+./gradlew jig
+```
+
+`build/jig` にJIGドキュメントが出力されます。
+スライドとの対応は以下になります。
+
+- 用語集: business-rule.xlsx
+- 初期モデル: package-relation-depth6.svg
 
 ### 必須
 
