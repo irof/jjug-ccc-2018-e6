@@ -10,5 +10,5 @@ repositories {
 dependencies {
 }
 
-jigReports.dependsOn(compileJava, processResources)
+jigReports.dependsOn(clean, compileJava, processResources)
 
