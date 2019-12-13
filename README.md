@@ -1,10 +1,11 @@
 JJUG CCC 2018 Fall e6
 ============================================================
 
-コードをどまんなかに据えた設計アプローチ
-https://speakerdeck.com/irof/kodowodomannakaniju-etashe-ji-apuroti
+[コードをどまんなかに据えた設計アプローチ](https://speakerdeck.com/irof/kodowodomannakaniju-etashe-ji-apuroti)
 
-p90「JIGを使った設計」のコードです。
+![](https://speakerd.s3.amazonaws.com/presentations/a8bb0866f87c4c1da18793db49f5b9e0/preview_slide_89.jpg)
+
+90ページの [JIGを使った設計](https://speakerdeck.com/irof/kodowodomannakaniju-etashe-ji-apuroti?slide=90) のコードです。
 
 ## Getting Started
 
